@@ -18,16 +18,40 @@
 
 ## Text Summarization
 
+1. **A Neural Attention Model for Abstractive Sentence Summarization.**
+*Alexander M. Rush, Sumit Chopra, JasonWeston.*  EMNLP 2015. [paper](https://arxiv.org/pdf/1509.00685.pdf) 
+@李军毅
+
+1. **Abstractive sentence summarization with attentive recurrent neural networks.**
+*Sumit Chopra, Michael Auli, Alexander M. Rush.*  NAACL 2016. [paper](http://www.aclweb.org/anthology/N16-1012) [code](https://github.com/toru34/rush_emnlp_2015)
+@李军毅
+
 1. **Incorporating Copying Mechanism in Sequence-to-Sequence Learning.**
 *Jiatao Gu, Zhengdong Lu, Hang Li, Victor O.K. Li.*  ACL 2016. [paper](http://arxiv.org/abs/1603.06393) [code](https://github.com/MultiPath/CopyNet) [data](https://pan.baidu.com/s/1qYGB2Rq)
 @李军毅
 
-1. **A Deep Reinforced Model for Abstractive Summarization.**
-*Anonymous authors.*  ICLR 2018. [paper](https://arxiv.org/pdf/1705.04304.pdf) [code](https://github.com/MultiPath/CopyNet) [data](https://pan.baidu.com/s/1qYGB2Rq)
-@李军毅
-
 1. **Neural Summarization by Extracting Sentences and Words.**
 *Jianpeng Cheng, Mirella Lapata.*  ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1046) [code](https://github.com/MultiPath/CopyNet) [data](https://pan.baidu.com/s/1qYGB2Rq)
+@李军毅
+
+1. **Neural Network-Based Abstract Generation for Opinions and Arguments.**
+*Lu Wang, Wang Ling.*  ACL 2016. [paper](https://arxiv.org/pdf/1606.02785.pdf) 
+@李军毅
+
+1. **Neural headline generation on abstract meaning representation.**
+*Sho Takase, Jun Suzuki, Naoaki Okazaki, Tsutomu Hirao, Masaaki Nagata.*  EMNLP 2016. [paper](https://aclweb.org/anthology/D16-1112) 
+@李军毅
+
+1. **Abstractive text summarization using sequence-to-sequence RNNs and beyond.**
+*Ramesh Nallapati, Bowen Zhou, Cicero dos Santos, Çaglar G ˘ ulçehre, Bing Xiang.*  CNLL 2016. [paper](http://cn.arxiv.org/pdf/1602.06023.pdf) 
+@李军毅
+
+1. **Language as a latent variable: Discrete generative models for sentence compression.**
+*Yishu Miao, Phil Blunsom.*  EMNLP 2016. [paper](https://www.aclweb.org/anthology/D/D16/D16-1031.pdf) 
+@李军毅
+
+1. **Sequence level training with recurrent neural networks.**
+*Marc’Aurelio Ranzato, Sumit Chopra, Michael Auli, Wojciech Zaremba.*  ICLR 2016. [paper](https://michaelauli.github.io/papers/iclr2016_mixer.pdf) 
 @李军毅
 
 1. **Deep Recurrent Generative Decoder for Abstractive Text Summarization.**
@@ -50,12 +74,16 @@
 *Jiwei Tan, XiaojunWan, Jianguo Xiao.*  ACL 2017. [paper](http://www.aclweb.org/anthology/P17-1108) 
 @李军毅
 
-1. **Neural Network-Based Abstract Generation for Opinions and Arguments.**
-*Lu Wang, Wang Ling.*  ACL 2016. [paper](https://arxiv.org/pdf/1606.02785.pdf) 
+1. **SummaRuNNer: A recurrent neural network based sequence model for extractive summarization of documents.**
+*Ramesh Nallapati, Feifei Zhai, Bowen Zhou.*  AAAI 2017. [paper](http://cn.arxiv.org/pdf/1611.04230.pdf) 
 @李军毅
 
-1. **A Neural Attention Model for Abstractive Sentence Summarization.**
-*Alexander M. Rush, Sumit Chopra, JasonWeston.*  EMNLP 2015. [paper](https://arxiv.org/pdf/1509.00685.pdf) [code](https://github.com/toru34/rush_emnlp_2015)
+1. **Get To The Point: Summarization with Pointer-Generator Networks.**
+*Abigail See, Peter J. Liu, Christopher D. Manning.*  ACL 2017. [paper](http://cn.arxiv.org/pdf/1704.04368.pdf) [code](https://github.com/abisee/pointer-generator) 
+把sequence-to-sequence模型应用于摘要生成时存在两个主要的问题：（1）难以准确复述原文的事实细节、无法处理原文中的未登录词(OOV)；（2）生成的摘要中存在重复的片段。针对这两个问题，本文提出融合了seq2seq模型和pointer network的pointer-generator network以及覆盖率机制(coverage mechanism)，在CNN/Daily Mail数据集上，相比于state-of-art，ROUGE分数提升了两个点。
+
+1. **A Deep Reinforced Model for Abstractive Summarization.**
+*Anonymous authors.*  ICLR 2018. [paper](https://arxiv.org/pdf/1705.04304.pdf) [code](https://github.com/MultiPath/CopyNet) [data](https://pan.baidu.com/s/1qYGB2Rq)
 @李军毅
 
 ## Dialogue System
