@@ -80,7 +80,7 @@
 
 1. **Get To The Point: Summarization with Pointer-Generator Networks.**
 *Abigail See, Peter J. Liu, Christopher D. Manning.*  ACL 2017. [paper](http://cn.arxiv.org/pdf/1704.04368.pdf) [code](https://github.com/abisee/pointer-generator) <br>
-把sequence-to-sequence模型应用于摘要生成时存在两个主要的问题：（1）难以准确复述原文的事实细节、无法处理原文中的未登录词(OOV)；（2）生成的摘要中存在重复的片段。针对这两个问题，本文提出融合了seq2seq模型和pointer network的pointer-generator network以及覆盖率机制(coverage mechanism)，在CNN/Daily Mail数据集上，相比于state-of-art，ROUGE分数提升了两个点。
+*简介：把sequence-to-sequence模型应用于摘要生成时存在两个主要的问题：（1）难以准确复述原文的事实细节、无法处理原文中的未登录词(OOV)；（2）生成的摘要中存在重复的片段。针对这两个问题，本文提出融合了seq2seq模型和pointer network的pointer-generator network以及覆盖率机制(coverage mechanism)，在CNN/Daily Mail数据集上，相比于state-of-art，ROUGE分数提升了两个点。*
 
 1. **A Deep Reinforced Model for Abstractive Summarization.**
 *Anonymous authors.*  ICLR 2018. [paper](https://arxiv.org/pdf/1705.04304.pdf) [code](https://github.com/MultiPath/CopyNet) [data](https://pan.baidu.com/s/1qYGB2Rq)
