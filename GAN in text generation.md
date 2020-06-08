@@ -87,3 +87,45 @@
 
 - Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, *Zhen Yang, Wei Chen, Feng Wang and Bo Xu*.
 - Adversarial Example Generation with Syntactically Controlled Paraphrase Networks, Mohit Iyyer, John Wieting, Kevin Gimpel and Luke Zettlemoyer*.
+
+### ICLR
+
+- MGAN: Training Generative Adversarial Nets with Multiple Generators, *Quan Hoang, Tu Dinh Nguyen, Trung Le, Dinh Phung*.
+- MaskGAN: Better Text Generation via Filling in the ______, *William Fedus, Ian Goodfellow, Andrew M. Dai*.
+- Unsupervised Cipher Cracking Using Discrete GANs, *Aidan N. Gomez, Sicong Huang, Ivan Zhang, Bryan M. Li, Muhammad Osama, Lukasz Kaiser*.
+
+### ICML
+
+- RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks, *Jinsung Yoon, James Jordon, Mihaela Schaar*.
+
+### NIPS
+
+- Towards Text Generation with Adversarially Learned Neural Outlines, *Sandeep Subramanian, Sai Rajeswar Mudumba, Alessandro Sordoni, Adam Trischler, Aaron Courville, Chris Pal*.
+- Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization, *Yizhe Zhang, Michel Galley, Jianfeng Gao, Zhe Gan, Xiujun Li, Chris Brockett, Bill Dolan*.
+- Adversarial Text Generation via Feature-Mover's Distance, *Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Lawrence Carin*.
+
+## 2017 conference
+
+### AAAI
+
+- SeqGAN:	Sequence Generative	Adversarial	Nets with	Policy Gradient, *Lantao Yu,	Weinan Zhang,	Jun	Wang and	Yong Yu*.
+- Contextual	RNN-GANs	for	Abstract	Reasoning	Diagram	Generation, *Viveka	Kulharia,	Arnab	Ghosh,	Amitabha	Mukerjee,	Vinay	Namboodiri	and	Mohit	Bansal*.
+
+### IJCAI
+
+- Multimodal Storytelling via Generative Adversarial Imitation Learning, *Zhiqian Chen, Xuchao Zhang, Arnold Boedihardjo, Jing Dai, Chang-Tien Lu*.
+
+### EMNLP
+
+- Neural Response Generation via GAN with an Approximate Embedding Layer, *Zhen Xu, Bingquan Liu, Baoxun Wang, Chengjie Sun, Xiaolong Wang, Zhuoran Wang, Chao Qi*.
+- Adversarial Learning for Neural Dialogue Generation, *Jiwei Li, Will Monroe, Tianlin Shi, Sébastien Jean, Alan Ritter, Dan Jurafsky*.
+
+### ICML
+
+- Adversarial Feature Matching for Text Generation, *Yizhe Zhang (Duke university) · zhe gan () · Kai Fan () · Zhi Chen (Duke University) · Ricardo Henao (Duke University) · Lawrence Carin (Duke)*.
+- Learning Texture Manifolds with the Periodic Spatial GAN, *Nikolay Jetchev (Zalando Research) · Urs M Bergmann (Zalando Research) · Roland Vollgraf (Zalando Research)*.
+
+### NIPS
+
+- Adversarial Ranking for Language Generation, *Kevin Lin, Dianqi Li, Xiaodong He, Zhengyou Zhang, Ming-ting Sun*.
+- Maximum-Likelihood Augmented Discrete Generative Adversarial Networks, *Tong Che, Yanran Li, Ruixiang Zhang, R Devon Hjelm, Wenjie Li, Yangqiu Song, Yoshua Bengio*.
