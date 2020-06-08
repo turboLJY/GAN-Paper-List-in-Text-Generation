@@ -1,4 +1,4 @@
-## 2019
+## 2019 conference
 
 ### AAAI
 
@@ -57,3 +57,33 @@
 ### NIPS
 
 - Training Language GANs from Scratch, *Cyprien de Masson d’Autume, Mihaela Rosca, Jack Rae, Shakir Mohamed*.
+
+## 2018 conference
+
+### AAAI 
+
+- MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment,*Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang*.
+- Long Text Generation via Adversarial Training with Leaked Information, *Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, Yong Yu*.
+- Show, Reward and Tell: Automatic Generation of Narrative Paragraph from Photo Stream by Adversarial Training, *Jing Wang, Jianlong Fu, Jinhui Tang, Zechao Li, Tao Mei*.
+
+### IJCAI 
+
+- SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks, *Ke Wang, Xiaojun Wan*.
+- Adversarial Active Learning for Sequences Labeling and Generation, *Yue Deng, KaWai Chen, Yilin Shen, Hongxia Jin*.
+- One “Ruler” for All Languages: Multi-Lingual Dialogue Evaluation with Adversarial Multi-Task Learning, *Xiaowei Tong, Zhenxin Fu, Mingyue Shang, Dongyan Zhao, Rui Yan*.
+
+### ACL
+
+- No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, *Xin Wang, Wenhu Chen, Yuan-Fang Wang, William Yang Wang*.
+
+### EMNLP
+
+- Generating Natural Language Adversarial Examples, *Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang*.
+- Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training, *Juntao Li, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, Rui Yan*.
+- Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation, *Jingjing Xu, Xuancheng Ren, Junyang Lin, Xu Sun*.
+- Learning to Encode Text as Human-Readable Summaries using Generative Adversarial Networks, *Yaushian Wang, Hung-Yi Lee*.
+
+### NAACL
+
+- Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets, *Zhen Yang, Wei Chen, Feng Wang and Bo Xu*.
+- Adversarial Example Generation with Syntactically Controlled Paraphrase Networks, Mohit Iyyer, John Wieting, Kevin Gimpel and Luke Zettlemoyer*.
