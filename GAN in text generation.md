@@ -23,20 +23,9 @@
 - **Make Up Your Mind! Adversarial Generation of Inconsistent Natural Language Explanations**, *Oana-Maria Camburu, Brendan Shillingford, Pasquale Minervini, Thomas Lukasiewicz and Phil Blunsom*.
 - **A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples**, *Zhao Meng and Roger Wattenhofer*.
 
-### SIGKDD
-
-- **Curb-GAN: Conditional Urban Traffic Estimation through Spatio-Temporal Generative Adversarial Networks**, *Yingxue Zhang: Worcester Polytechnic Institute; Yanhua Li: Worcester Polytechnic Institute; Xun Zhou: University of Iowa; Xiangnan Kong: Worcester Polytechnic Institute; Jun Luo: Lenovo Group Limited*.
-- **Catalysis Clustering With GAN By Incorporating Domain Knowledge**, *Olga Andreeva: University of Massachusetts Boston; Wei Li: Wuhan University; Wei Ding: University of Massachusetts Boston; Marieke Kuijjer: Centre for Molecular Medicine Norway, University of Oslo; John Quackenbush: Dana-Farber Cancer Institute; Ping Chen: University of Massachusetts Boston*.
-- **SEAL: Learning Heuristics for Community Detection with Generative Adversarial Networks**, *Yao Zhang: Fudan University; Yun Xiong: Fudan University; Yun Ye: Ant Financial Services Group; Tengfei Liu: Ant Financial Services Group; Weiqiang Wang: Ant Financial Services Group; Yangyong Zhu: Fudan University; Philip S. Yu: UIC*.
-- **Improving Trajectory Predictions of Traffic Actors using GANs and Differentiable Rasterization**, *Eason Wang: University of Waterloo; Henggang Cui: Uber ATG; Sai Yalamanchi: Uber ATG; Mohana Moorthy: Uber ATG; Nemanja Djuric: Uber ATG*.
-- **Vulnerability vs. Reliability: Disentangled Adversarial Examples for Cross-Modal Learning**, *Chao Li: Xidian University; Haoteng Tang: University of Pittsburgh; Cheng Deng: Xidian University; Liang Zhan: University of Pittsburgh; Wei Liu: Tencent*.
-- **xGAIL: Explainable Generative Adversarial Imitation Learning for Explainable Human Decision Analysis**, *Menghai Pan: Worcester Polytechnic Institute; Weixiao Huang: Worcester Polytechnic Institute; Yanhua Li: Worcester Polytechnic Institute (WPI); Xun Zhou: University of Iowa; Jun Luo: Lenovo Group Limited*.
-
 ### SIGIR
 
-- **DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features**, *Jiongnan Liu: Renmin University of China; Zhicheng Dou: Renmin University of China; Xiaojie Wang: University of Melbourne; Shuqi Lu: Renmin University of China; Ji-Rong Wen: Renmin University of China*.
 - **Sequential Recommendation with Self-attentive Multi-adversarial Network**, *Ruiyang Ren: Renmin University of China; Zhaoyang Liu: Alibaba Group; Yaliang Li: Alibaba Group; Wayne Xin Zhao: Renmin University of China; Hui Wang: Renmin University of China; Bolin Ding: Alibaba Group; Ji-Rong Wen: Renmin University of China*.
-- **Generating Images Instead of Retrieving them: Relevance feedback on Generative Adversarial Networks**, *Antti Ukkonen: University of Helsinki; Pyry Joona: University of Helsinki; Tuukka Ruotsalo: University of Helsinki*.
 - **Coding Electronic Health Records with Adversarial Reinforcement Path Generation**, *Shanshan Wang: Shandong University; Pengjie Ren: University of Amsterdam; Zhumin Chen: Shandong University; Zhaochun Ren: Shandong University; Jian-Yun Nie: Université de Montréal; Jun Ma: Shandong University; Maarten de Rijke: University of Amsterdam*.
 - **Leveraging Adversarial Training in Self-Learning for Cross-Lingual Text Classification**, *Xin Dong: Rutgers University; Yaxin Zhu: Rutgers University; Yupeng Zhang: Rutgers University; Zuohui Fu: Rutgers University; Dongkuan Xu: The Pennsylvania State University; Sen Yang: Linkedin; Gerard de Melo: Rutgers University*.
 - **Sequential-based Adversarial Optimisation for Personalised Top-N Item Recommendation**, *Jarana Manotumruksa: University College London; Emine Yilmaz: University College London*.
