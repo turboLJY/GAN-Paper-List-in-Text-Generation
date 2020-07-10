@@ -2,12 +2,12 @@
 
 ### AAAI
 
-- **Interactive Dual Generative Adversarial Networks for Image Captioning**, Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen (Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*.
-- **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**, *Dayiheng Liu (Sichuan University)*; Jie Fu (Mila, Polytechnique Montreal); Yidan Zhang (Sichuan University); Chris Pal (MILA, Polytechnique Montréal, Element AI); Jiancheng Lv (Sichuan University)*.
-- **CatGAN: Category-aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation**, *Zhiyue Liu (Sun Yat-sen University); Jiahai Wang (Sun Yat-sen University)*; Zhiwei Liang (Sun Yat-sen University)*.
-- **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**, *Minhao Cheng (UCLA)*; Jinfeng Yi (JD AI Research); Pin-Yu Chen (IBM Research); Huan Zhang (UCLA); Cho-Jui Hsieh (UCLA)*.
-- **Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative Adversarial Network**, *Shaoxiong Feng (Beijing Institute of Technology)*; Hongshen Chen (JD.com); Kan Li (Beijing Insitiute of Technology, China); Dawei Yin (JD.com)*.
-- **Meta-CoTGAN: A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation**, *Haiyan Yin (Baidu Research)*; Dingcheng Li (Baidu Research); XU LI (Baidu Research); Ping Li (Baidu)*.
+- **Interactive Dual Generative Adversarial Networks for Image Captioning**, *Junhao Liu (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Kai Wang (Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences); Chunpu Xu (Huazhong University of Science and Technology); Zhou Zhao (Zhejiang University); Ruifeng Xu (Harbin Institute of Technology (Shenzhen)); Ying Shen (Peking University Shenzhen Graduate School); Min Yang ( Chinese Academy of Sciences)*.
+- **Revision in Continuous Space: Unsupervised Text Style Transfer without Adversarial Learning**, *Dayiheng Liu (Sichuan University); Jie Fu (Mila, Polytechnique Montreal); Yidan Zhang (Sichuan University); Chris Pal (MILA, Polytechnique Montréal, Element AI); Jiancheng Lv (Sichuan University)*.
+- **CatGAN: Category-aware Generative Adversarial Networks with Hierarchical Evolutionary Learning for Category Text Generation**, *Zhiyue Liu (Sun Yat-sen University); Jiahai Wang (Sun Yat-sen University); Zhiwei Liang (Sun Yat-sen University)*.
+- **Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples**, *Minhao Cheng (UCLA); Jinfeng Yi (JD AI Research); Pin-Yu Chen (IBM Research); Huan Zhang (UCLA); Cho-Jui Hsieh (UCLA)*.
+- **Posterior-GAN: Towards Informative and Coherent Response Generation with Posterior Generative Adversarial Network**, *Shaoxiong Feng (Beijing Institute of Technology); Hongshen Chen (JD.com); Kan Li (Beijing Insitiute of Technology, China); Dawei Yin (JD.com)*.
+- **Meta-CoTGAN: A Meta Cooperative Training Paradigm for Improving Adversarial Text Generation**, *Haiyan Yin (Baidu Research); Dingcheng Li (Baidu Research); XU LI (Baidu Research); Ping Li (Baidu)*.
 
 ### IJCAI
 
